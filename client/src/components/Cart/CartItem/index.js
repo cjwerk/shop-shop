@@ -1,4 +1,5 @@
 import React from 'react';
+import { idbPromise } from "../../utils/helpers";
 
 const CartItem = ({ item }) => {
   return (
