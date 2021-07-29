@@ -5,7 +5,7 @@
 
   ## Description 
 
-  Creating an optimal shopping website to help you search and save any item that peaks your intrest. Go to the deployed site at https://rocky-everglades-49965.herokuapp.com/ and check it out. Intreseted in how its done? Check out the repo at https://github.com/cjwerk/shop-shop and see.
+  Creating an optimal shopping website to help you search and save any item that peaks your intrest. Go to the deployed site at https://rocky-everglades-49965.herokuapp.com/ and check it out. Intreseted in how its done? Check out the repo at https://github.com/cjwerk/shop-shop and see!
 
 ![screenshot](\21-mern-homework-demo-01.gif)
   ## Installation
